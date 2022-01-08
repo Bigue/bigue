@@ -2,7 +2,7 @@
 
 # Olá! Eu sou o Gabriel Fajersztajn 😀👋
 
-Sou um estudante de desenvolvimento web.
+Sou um estudante de desenvolvimento web apaixonado por tecnologia.
 
 ## Tecnologias que estou estudando:
 <div style ="display: inline_block">
