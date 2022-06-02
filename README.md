@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hey, I'm Gabriel! 
 
-I'm a web development student in love with technology
+I'm a web development student in love with technology.
 
 ## Technologies i'm studying:
 <div style ="display: inline_block">
